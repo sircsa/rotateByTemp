@@ -1,2 +1,2 @@
 # rotateByTemp
-In this simple project, the temperature value obtained from the DHT22 sensor is used to determine the direction of motion of the stepper motor. 
+In this simple project, the temperature value obtained from the DHT22 sensor is used to determine the direction of motion of the stepper motor. The data received from the sensor is also transmitted to the LCD display 1602. The user can increase or decrease the direction boundary using 2 buttons, as well as change the rotation speed of the stepper motor also using 2 buttons. Data from the sensor is also transmitted via UART.
